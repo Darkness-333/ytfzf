@@ -178,3 +178,4 @@ if shouldPrint:
 
 new2 commit 1
 new2 commit 2
+new2 commit 3
