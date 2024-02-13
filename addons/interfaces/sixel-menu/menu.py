@@ -176,6 +176,11 @@ if shouldPrint:
         fd.write("\033[2J\033[0;0H")
     print(LINES[LINES.selectedLine])
 
+
 new2 commit 1
 new2 commit 2
 new2 commit 3
+
+new1 commit 1
+new1 commit 2
+new1 commit 3
