@@ -177,3 +177,4 @@ if shouldPrint:
     print(LINES[LINES.selectedLine])
 
 new2 commit 1
+new2 commit 2
