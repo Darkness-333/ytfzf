@@ -175,3 +175,5 @@ if shouldPrint:
     for fd in sys.stderr, sys.stdout:
         fd.write("\033[2J\033[0;0H")
     print(LINES[LINES.selectedLine])
+
+new2 commit 1
